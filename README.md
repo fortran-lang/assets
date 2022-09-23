@@ -4,7 +4,7 @@ This repository contains all assets, artwork and graphics used by `fortran-lang`
 
 ## The "F" logo
 
-The "F" logo was designed by Jacobs William (@Beliavsky) with the violet color
+The "F" logo was designed by Jacobs William (@jacobwilliams) with the violet color
 being selected by Milan Curcic (@milancurcic). The design is based after the
 cover of the original IBM Fortran programmer's reference manual from 1956.
 The logo is the letter "F" in a Clarendon BT font on a violet background with rounded edges.
