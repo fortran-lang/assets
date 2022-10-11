@@ -13,5 +13,6 @@ The logo is the letter "F" in a Clarendon BT font on a violet background with ro
 
 The "F" logo is distributed under an MIT license.
 
-Other assets in this repository are licensed under different licenses.
+Other assets in this repository might be licensed under different licenses.
 Please see the `LICENSE` file in each directory for details.
+If no license is specific for an asset (no `LICENSE` file or any explicit mention in the documentation), a default MIT license will be used.
